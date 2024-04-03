@@ -1,0 +1,1 @@
+# This is a Landing WebPage UI of SmartHome - (A Real Estate Website to Buy or Sell Properties).
